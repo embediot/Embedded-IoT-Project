@@ -41,4 +41,4 @@ yoxios_extern_board：这是一个游芯科技 YOXIOS X3 开发板的扩展模�
 
 
 
-<img src="http://mmbiz.qpic.cn/mmbiz_png/Sutn8u5k4PRCDQhGeWibGTEkGvDxfAoKP3yXjroick9SA7rJp9vPXRQf1rg0EvoXXNq0Fw7ActjcLGR6j8DwD3yw/0?wx_fmt=png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/embediot/Embedded-IoT-Project/master/0-%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6%E5%A4%B9/qrcode.png" style="zoom:50%;" />

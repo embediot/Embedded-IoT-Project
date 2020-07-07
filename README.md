@@ -5,7 +5,7 @@
 
 这是一个嵌入式物联网开源项目。以一个无线传感控制网络项目为实际案例，开源了一些无线控制模块和传感器模块。目前无线模块主要使用2.4GHz和433MHz通信，涉及单片机硬件原理设计，PCB-Layout，单片机软件开发，嵌入式Linux Qt应用程序开发，等等。
 
-
+![](https://raw.githubusercontent.com/embediot/Embedded-IoT-Project/master/0-%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6%E5%A4%B9/all_modules.png)
 
 ## 1.硬件说明文档
 

@@ -6,6 +6,7 @@
 这是一个嵌入式物联网开源项目。以一个无线传感控制网络项目为实际案例，开源了一些无线控制模块和传感器模块。目前无线模块主要使用2.4GHz和433MHz通信，涉及单片机硬件原理设计，PCB-Layout，单片机软件开发，嵌入式Linux Qt应用程序开发，等等。
 
 
+
 ## 1.硬件说明文档
 
 这个文件夹主要存放了各个模块的硬件说明文档。
@@ -38,3 +39,6 @@ yoxios_extern_board：这是一个游芯科技 YOXIOS X3 开发板的扩展模�
 
 这个文件夹主要用来存放各个模块的开发文档，有详细的软硬件开发说明。
 
+
+
+<img src="http://mmbiz.qpic.cn/mmbiz_png/Sutn8u5k4PRCDQhGeWibGTEkGvDxfAoKP3yXjroick9SA7rJp9vPXRQf1rg0EvoXXNq0Fw7ActjcLGR6j8DwD3yw/0?wx_fmt=png" style="zoom:50%;" />
